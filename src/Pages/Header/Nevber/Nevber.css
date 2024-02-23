@@ -1,0 +1,38 @@
+.nev-continer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 30px;
+}
+
+.nav-img img{
+    height: 25px;
+    width: 100%;
+}
+.nav-btn {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.nav-btn li {
+    margin-right: 30px;
+}
+#singup-btn{
+    background:green;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 15px;
+}
+#singout-btn{
+    background:red;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 15px;
+}
+#log-btn{
+    border: none;
+    font-weight: bold;
+    background: white;
+}

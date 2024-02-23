@@ -1,0 +1,16 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+nav ul li{
+    margin-right: 20px;
+}
+.shop-navber {
+    border: none;
+    background-color: transparent;
+    font-weight: bolder;
+    font-size: large;
+    
+}

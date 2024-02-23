@@ -1,0 +1,39 @@
+.footer-container{
+    background-color: black;
+    color: white;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    margin-top: 30px;
+}
+
+.logo-container img{
+    width: 150px;
+}
+.logo-container p{
+    color: darkgray;
+}
+.logo-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.page-details-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.page-details{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 0px 100px;
+
+}
+.page-details p{
+    margin-bottom: 0px;
+}
+.page-policy{
+    display: flex;
+    justify-content: space-around;
+}

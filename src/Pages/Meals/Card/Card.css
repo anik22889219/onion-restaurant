@@ -1,0 +1,18 @@
+.card-container{
+    width: 300px;
+    border-radius: 20px;
+   
+    padding: 20px;
+}
+.card-container:hover{
+    box-shadow: 2px 2px 5px;
+}
+.card-img img{
+    width: 100%;
+}
+.card-titel h2{
+    margin-bottom: 0px;
+}
+.card-titel p,h3{
+    margin: 0px;
+}

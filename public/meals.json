@@ -1,0 +1,128 @@
+[
+    {
+        "id":"1",
+        "meal":"Lunch",
+        "name":"Health Meal plan",
+        "price":"23.99",
+        "img":"lunch1.png"
+    },
+    {
+        "id":"2",
+        "meal":"Lunch",
+        "name":"Fried Chicken Bento",
+        "price":"9.99",
+        "img":"lunch2.png"
+    },
+    {
+        "id":"3",
+        "meal":"Lunch",
+        "name":"Tarragon Rubbed Salmon",
+        "price":"6.99",
+        "img":"lunch3.png"
+    },
+    {
+        "id":"4",
+        "meal":"Lunch",
+        "name":"Indian Lunch",
+        "price":"8.99",
+        "img":"lunch4.png"
+    },
+    {
+        "id":"5",
+        "meal":"Lunch",
+        "name":"Beef Steak",
+        "price":"15.99",
+        "img":"lunch5.png"
+    },
+    {
+        "id":"6",
+        "meal":"Lunch",
+        "name":"Honey-Soy_Glazed Salmon with Peppers",
+        "price":"7.99",
+        "img":"lunch6.png"
+    },
+    {
+        "id":"7",
+        "meal":"Breakfast",
+        "name":"Bagel and cream cheese",
+        "price":"6.99",
+        "img":"breakfast1.png"
+    },
+    {
+        "id":"8",
+        "meal":"Breakfast",
+        "name":"Breakfast sandwich",
+        "price":"9.99",
+        "img":"breakfast2.png"
+    },
+    {
+        "id":"9",
+        "meal":"Breakfast",
+        "name":"Baked Chiken",
+        "price":"10.99",
+        "img":"breakfast3.png"
+    },
+    {
+        "id":"10",
+        "meal":"Breakfast",
+        "name":"Egg Benedict",
+        "price":"8.99",
+        "img":"breakfast4.png"
+    },
+    {
+        "id":"11",
+        "meal":"Breakfast",
+        "name":"Toast Croissant Fried egg",
+        "price":"19.99",
+        "img":"breakfast5.png"
+    },
+    {
+        "id":"12",
+        "meal":"Breakfast",
+        "name":"Full Breakfast Fried Egg Toast Brunch",
+        "price":"3.99",
+        "img":"breakfast6.png"
+    },
+    {
+        "id":"13",
+        "meal":"dinner",
+        "name":"Salmon with Grapefruit and Lentil Salad",
+        "price":"9.99",
+        "img":"dinner1.png"
+    },
+    {
+        "id":"14",
+        "meal":"dinner",
+        "name":"Lemony Salmon Piccata",
+        "price":"10.99",
+        "img":"dinner2.png"
+    },
+    {
+        "id":"15",
+        "meal":"dinner",
+        "name":"Pork Tenderloin With Quinoa Pilaf",
+        "price":"12.99",
+        "img":"dinner3.png"
+    },
+    {
+        "id":"16",
+        "meal":"dinner",
+        "name":"French fries with cheese",
+        "price":"8.99",
+        "img":"dinner4.png"
+    },
+    {
+        "id":"17",
+        "meal":"dinner",
+        "name":"Garlic Butter Baked Salmon",
+        "price":"6.99",
+        "img":"dinner5.png"
+    },
+    {
+        "id":"18",
+        "meal":"dinner",
+        "name":"Baked Chiken",
+        "price":"9.99",
+        "img":"dinner6.png"
+    }
+]
